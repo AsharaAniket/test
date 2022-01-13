@@ -24,5 +24,4 @@ class Box{
  	println("Volume of Box:" + volume);
  	return volume;
  	}	
-  pull try
 }
